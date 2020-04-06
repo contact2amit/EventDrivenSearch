@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: usage-detail-sender
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: home
+Implementation-Vendor-Id: product.search.sample
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/product-search/usage-detail-sender-kafka
+Created-By: Maven Integration for Eclipse
+
